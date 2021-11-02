@@ -1,2 +1,4 @@
-# ceu_perg_ggplot2
-ggplot2 workshop for PERG
+# Data visualization with `ggplot2`
+## PERG workshop
+
+All the relevant materials will be uploaded to this repository. Stay tuned!
